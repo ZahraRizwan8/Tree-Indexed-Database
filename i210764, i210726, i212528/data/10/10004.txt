@@ -1,0 +1,7 @@
+10004
+2001
+Accidents (unintentional injuries) (V01-X59,Y85-Y86)
+Unintentional injuries
+North Dakota
+238
+33.9
